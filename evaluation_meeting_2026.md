@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Evaluation Meeting Program 2026
-permalink: /evaluation-meeting/
+permalink: /evaluation-meeting-2026/
 ---
 
 
