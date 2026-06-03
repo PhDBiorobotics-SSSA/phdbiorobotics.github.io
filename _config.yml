@@ -1,0 +1,15 @@
+title: Evaluation Meeting 2026
+description: Evaluation Meeting Program
+theme: minima
+markdown: kramdown
+permalink: pretty
+
+url: "https://phdbiorobotics-sssa.github.io"
+baseurl: "/phdbiorobotics.github.io"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
