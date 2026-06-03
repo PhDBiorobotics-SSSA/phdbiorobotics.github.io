@@ -20,6 +20,14 @@ permalink: /evaluation-meeting-2026/
 - [DAY 3 — Thursday, June 11](#day-3--thursday-june-11)
 - [DAY 4 — Friday, June 12](#day-4--friday-june-12)
 
+---
+
+Download:
+- [Agenda](media/Agenda%20-%20Program%20-%202026.pdf)
+- [Map](media/Map%20-%202026.pdf)
+
+---
+
 ## Track Panels
 
 ### Track 1 Panel
