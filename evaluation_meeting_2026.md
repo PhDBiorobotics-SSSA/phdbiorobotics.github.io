@@ -1,5 +1,5 @@
 ---
-layout: evaluation_meeting_2026
+layout: default
 title: Evaluation Meeting Program 2026
 permalink: /evaluation-meeting/
 ---
