@@ -1,3 +1,10 @@
+---
+layout: evaluation_meeting_2026
+title: Evaluation Meeting Program 2026
+permalink: /evaluation-meeting/
+---
+
+
 # Evaluation Meeting Program
 **Piombino, June 9–12, 2026**
 
