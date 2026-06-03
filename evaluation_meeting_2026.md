@@ -5,12 +5,20 @@ permalink: /evaluation-meeting-2026/
 ---
 
 
-# Evaluation Meeting Program
-**Piombino, June 9–12, 2026**
+<!-- # Evaluation Meeting Program
+**Piombino, June 9–12, 2026** -->
 
-![](media/Logo_evaluation_meeting_2026.png)
+![width:100%](media/Logo_evaluation_meeting_2026.png)
 
 ---
+
+- [Track Panels](#track-panels)
+  - [Track 1 Panel](#track-1-panel)
+  - [Track 2 Panel](#track-2-panel)
+- [DAY 1 — Tuesday, June 9](#day-1--tuesday-june-9)
+- [DAY 2 — Wednesday, June 10](#day-2--wednesday-june-10)
+- [DAY 3 — Thursday, June 11](#day-3--thursday-june-11)
+- [DAY 4 — Friday, June 12](#day-4--friday-june-12)
 
 ## Track Panels
 
