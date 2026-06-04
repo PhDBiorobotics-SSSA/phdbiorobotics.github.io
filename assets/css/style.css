@@ -216,6 +216,9 @@ table tbody tr:hover td {
 table th:nth-child(1),
 table td:nth-child(1) {
   width: 9%;
+}
+
+table td:nth-child(1) {
   color: var(--brand-800);
   font-weight: 700;
   white-space: normal;
@@ -227,6 +230,10 @@ table td:nth-child(2) {
 }
 
 table th:nth-child(3),
+table td:nth-child(3) {
+  width: 15%;
+}
+
 table td:nth-child(3) {
   width: 15%;
   color: var(--brand-800);
