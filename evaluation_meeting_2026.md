@@ -97,7 +97,7 @@ permalink: /evaluation-meeting-2026/
 
 ## Map
 
-
+![Map](media/map-2026.png)
 
 ---
 
