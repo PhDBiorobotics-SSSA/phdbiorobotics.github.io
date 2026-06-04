@@ -12,29 +12,20 @@ permalink: /evaluation-meeting-2026/
 
 ---
 
-- [Track Panels](#track-panels)
-  - [Track 1 Panel](#track-1-panel)
-  - [Track 2 Panel](#track-2-panel)
 - [DAY 1 — Tuesday, June 9](#day-1--tuesday-june-9)
 - [DAY 2 — Wednesday, June 10](#day-2--wednesday-june-10)
 - [DAY 3 — Thursday, June 11](#day-3--thursday-june-11)
 - [DAY 4 — Friday, June 12](#day-4--friday-june-12)
+- [Map](#map)
+- [Track Panels](#track-panels)
+  - [Track 1 Panel](#track-1-panel)
+  - [Track 2 Panel](#track-2-panel)
 
 ---
 
-Download:
-- [Agenda]({ '/media/Agenda%20-%20Program%20-%202026.pdf' | relative_url })
-- [Map]({ '/media/Map%20-%202026.pdf' | relative_url })
-
----
-
-## Track Panels
-
-### Track 1 Panel
-Matteo Cianchetti, Marco Controzzi, Enzo Mastinu, Nicola Vitiello, Leonardo Cappello, Simona Crea, Christian Cipriani, Marta Gherardini, Gianni Ciofani, Gastone Ciuti, Martina Maselli, Stefano Palagi, Linda Paterno, Paolo Dario, Emilio Trigili, Veronica Iacovacci, Cecilia Laschi, Marcello Calisti, Lucia Beccai, Giovanni Stabile, Virgilio Mattoli
-
-### Track 2 Panel
-Antonio De Simone, Andrea Cafarelli, Eugenio Redolfi Riva, Fabian Gerd Meder, Calogero Maria Oddo, Jacopo Carpaneto, Leonardo Ricotti, Francesco Greco, Alberto Mazzoni, Lorenzo Vannozzi, Angelo Maria Sabatini, Silvestro Micera,  Debora Angeloni, Mariangela Filosa, Eleonora Russo, Egidio Falotico, Paolo Dario, Laura Ferrari, Andrea Bandini, Tommaso Proietti, Carlotta Pucci, Nicolo Meneghetti, Arianna Menciassi, Donato Romano
+**Downloads:**
+- [Agenda]({{ '/media/agenda-program-2026.pdf' | relative_url }})
+- [Map]({{ '/media/map-2026.pdf' | relative_url }})
 
 ---
 
@@ -101,3 +92,19 @@ Antonio De Simone, Andrea Cafarelli, Eugenio Redolfi Riva, Fabian Gerd Meder, Ca
 | 09:30  | Award Ceremony                           | Baratti 1+2+3         | Chairs: Mazzoni, Ricotti |
 | 11:30  | Check-out & Transfers                    | —                     | — |
 | 14:00  | Faculty Lunch                            | Ristorante            | — |
+
+---
+
+## Map
+
+
+
+---
+
+## Track Panels
+
+### Track 1 Panel
+Matteo Cianchetti, Marco Controzzi, Enzo Mastinu, Nicola Vitiello, Leonardo Cappello, Simona Crea, Christian Cipriani, Marta Gherardini, Gianni Ciofani, Gastone Ciuti, Martina Maselli, Stefano Palagi, Linda Paterno, Paolo Dario, Emilio Trigili, Veronica Iacovacci, Cecilia Laschi, Marcello Calisti, Lucia Beccai, Giovanni Stabile, Virgilio Mattoli
+
+### Track 2 Panel
+Antonio De Simone, Andrea Cafarelli, Eugenio Redolfi Riva, Fabian Gerd Meder, Calogero Maria Oddo, Jacopo Carpaneto, Leonardo Ricotti, Francesco Greco, Alberto Mazzoni, Lorenzo Vannozzi, Angelo Maria Sabatini, Silvestro Micera,  Debora Angeloni, Mariangela Filosa, Eleonora Russo, Egidio Falotico, Paolo Dario, Laura Ferrari, Andrea Bandini, Tommaso Proietti, Carlotta Pucci, Nicolo Meneghetti, Arianna Menciassi, Donato Romano
