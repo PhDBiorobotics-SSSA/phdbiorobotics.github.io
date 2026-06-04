@@ -12,18 +12,14 @@ permalink: /evaluation-meeting-2026/
 
 ---
 
-> **Wi-Fi network**  
-> Network:&nbsp; `Conference`  
-> Password: `Sala2022`
-
----
-
 - [Agenda](#agenda)
   - [DAY 1 — Tuesday, June 9](#day-1--tuesday-june-9)
   - [DAY 2 — Wednesday, June 10](#day-2--wednesday-june-10)
   - [DAY 3 — Thursday, June 11](#day-3--thursday-june-11)
   - [DAY 4 — Friday, June 12](#day-4--friday-june-12)
-- [Map](#map)
+- [Logistics](#logistics)
+  - [Wi-Fi information](#wi-fi-information)
+  - [Map](#map)
 - [Track Panels](#track-panels)
     - [Track 1 Panel](#track-1-panel)
     - [Track 2 Panel](#track-2-panel)
@@ -108,7 +104,15 @@ permalink: /evaluation-meeting-2026/
 
 ---
 
-# Map
+# Logistics
+
+## Wi-Fi information
+
+> Network:&nbsp; `Conference`  
+> Password: `Sala2022`
+
+
+## Map
 
 ![Map](media/map-2026.png)
 
