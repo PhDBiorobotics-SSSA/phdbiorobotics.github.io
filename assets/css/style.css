@@ -40,7 +40,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: linear-gradient(180deg, #fafdff 0%, #f2f8fc 100%);
+  background: var(--bg);
   color: var(--ink);
   font-family: var(--font-sans);
   font-size: 17px;
@@ -58,7 +58,7 @@ main,
 }
 
 h1, h2, h3, h4 {
-  color: var(--brand-800);
+  color: var(--brand-700);
   line-height: 1.2;
   margin-top: 1.6em;
   margin-bottom: 0.6em;
@@ -78,7 +78,7 @@ h2 {
   font-size: clamp(1.45rem, 2.2vw, 2rem);
   margin-top: 2rem;
   padding: 0.45rem 0.8rem;
-  background: linear-gradient(90deg, var(--brand-100) 0%, rgba(234, 244, 251, 0) 100%);
+  background: var(--brand-100);
   border-left: 6px solid var(--brand-700);
   border-radius: 0;
 }
@@ -93,13 +93,14 @@ p, li {
 }
 
 strong {
-  color: var(--brand-800);
+  color: var(--brand-700);
 }
 
 a {
   color: var(--brand-700);
-  text-decoration-thickness: 1.5px;
-  text-underline-offset: 0.15em;
+  /* text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.15em; */
+  text-decoration: none;
 }
 
 a:hover {
@@ -171,7 +172,7 @@ main table {
 
 thead th,
 table th {
-  background: linear-gradient(180deg, var(--brand-800) 0%, var(--brand-700) 100%);
+  background: var(--brand-700);
   color: #ffffff;
   font-weight: 700;
   text-align: left;
