@@ -114,9 +114,9 @@ hr {
 }
 
 blockquote {
-  margin: 1.25rem 0;
-  padding: 0.85rem 1rem;
-  background: #f4fafe;
+  margin: 0.25rem 0;
+  padding: 0 1rem;
+  background: var(--brand-300);
   border-left: 4px solid var(--brand-600);
   color: var(--muted);
   border-radius: 0;
