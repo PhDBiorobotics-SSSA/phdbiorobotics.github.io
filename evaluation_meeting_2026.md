@@ -28,7 +28,7 @@ permalink: /evaluation-meeting-2026/
 
 # Agenda
 
-[Download agenda]({{ '/media/agenda-program-2026.pdf' | relative_url }})
+> [Download agenda]({{ '/media/agenda-program-2026.pdf' | relative_url }})
 
 ## DAY 1 &mdash; Tuesday, June 9
 
@@ -116,7 +116,7 @@ permalink: /evaluation-meeting-2026/
 
 ![Map](media/map-2026.png)
 
-[Download map]({{ '/media/map-2026.pdf' | relative_url }})
+> [Download map]({{ '/media/map-2026.pdf' | relative_url }})
 
 ---
 
