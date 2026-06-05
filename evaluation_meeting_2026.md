@@ -37,10 +37,10 @@ permalink: /evaluation-meeting-2026/
 | Morning | _Pick-up, Arrival & Check-in_                      | —                     | — |
 | 12:00  | _Lunch_                                    | La Cantina Restaurant | — |
 | 14:00  | Welcome & Intro                          | Baratti 1+2+3         | Prof. Ricotti & Ciuti |
-| 14:30  | Block 1 (I year)                         | Baratti 1+2+3         | _Chairs: Menciassi, Crea, Mazzoni, Maselli, Filosa_<br/>Aurora Balandi, Giulia Lomele, Luca Murra, Carlo Preziuso, Camilla Baselli, Simone Rossi, Alfonso Maria Stanzione |
+| 14:30  | Block 1<br/>(I year)                         | Baratti 1+2+3         | _Chairs: Menciassi, Crea, Mazzoni, Maselli, Filosa_<br/>Aurora Balandi, Giulia Lomele, Luca Murra, Carlo Preziuso, Camilla Baselli, Simone Rossi, Alfonso Maria Stanzione |
 | 16:30  | _Coffee break_                             | Loggiato              | — |
-| 17:00  | Block 2 – Track 1 (II year)              | Baratti 1             | Lorenzo Amati, Niccolò Bergo, Gian Paolo Currà, Marco Anselmi, Marco Lupi, Mariagrazia Polizzotto |
-| 17:00  | Block 2 – Track 2 (II year)              | Baratti 2+3           | Leonardo Corsi, Nadia D’Alessandro, Salvatore Falciglia, Anita Casadei, Alessandro Piccolo, Rita Habib |
+| 17:00  | Block 2 – Track 1<br/>(II year)              | Baratti 1             | _Chairs: Stabile, Cianchetti, Mastinu, Cappello_<br/>Lorenzo Amati, Niccolò Bergo, Gian Paolo Currà, Marco Anselmi, Marco Lupi, Mariagrazia Polizzotto |
+| 17:00  | Block 2 – Track 2<br/>(II year)              | Baratti 2+3           | _Chairs: Vannozzi, Meder, Oddo, Sabatini_<br/>Leonardo Corsi, Nadia D’Alessandro, Salvatore Falciglia, Anita Casadei, Alessandro Piccolo, Rita Habib |
 | 18:00  | **Invited Talk**             | Baratti 1+2+3         | **Mario Pansera** |
 | 18:00  | _Faculty meeting_            | Populonia         | — |
 | 19:00  | Poster Session & Aperi-dinner            | Poster Area           | Poster presenters (III year) |
@@ -52,15 +52,15 @@ permalink: /evaluation-meeting-2026/
 | Time   | Activity                                  | Location              | Participants |
 |--------|-------------------------------------------|-----------------------|--------------|
 | 08:00  | _Breakfast_                                | La Cantina Restaurant | — |
-| 09:30  | Block 1 (I year)                         | Baratti 1+2+3         | _Chairs: Oddo, Pucci, Redolfi Riva, Proietti_<br/>Mahla Shahabishalghouni, Dana Abilmazhinova, Valentina Giannotti, Chiara Catania, Luca Cinus, Michele Ibrahimi, Vito Romanello |
+| 09:30  | Block 1<br/>(I year)                         | Baratti 1+2+3         | _Chairs: Oddo, Pucci, Redolfi Riva, Proietti_<br/>Mahla Shahabishalghouni, Dana Abilmazhinova, Valentina Giannotti, Chiara Catania, Luca Cinus, Michele Ibrahimi, Vito Romanello |
 | 11:30  | _Coffee break_                             | Loggiato              | — |
-| 12:00  | Block 2 – Track 1 (II year)              | Baratti 1             | Mariateresa Pedone, Joseph Troy Baker, Silvia Fattorini, Federica Rosellini, Muhammad Awais, Andrea Campanelli |
-| 12:00  | Block 2 – Track 2 (II year)              | Baratti 2+3           | Anna Labardi, Chiara Galfano, Federico Fattorini, Marco Griffa, Davide Mocellin, Giorgia Romano, Veronica Santoro |
+| 12:00  | Block 2 – Track 1<br/>(II year)              | Baratti 1             | _Chairs: Laschi, Trigili, Palagi, Ciofani_<br/>Mariateresa Pedone, Joseph Troy Baker, Silvia Fattorini, Federica Rosellini, Muhammad Awais, Andrea Campanelli |
+| 12:00  | Block 2 – Track 2<br/>(II year)              | Baratti 2+3           | _Chairs: Greco, Redolfi Riva, Carpaneto, Proietti_<br/>Anna Labardi, Chiara Galfano, Federico Fattorini, Marco Griffa, Davide Mocellin, Giorgia Romano, Veronica Santoro |
 | 13:30  | _Lunch_                                    | La Cantina Restaurant | — |
 | 13:30  | _Faculty Meeting_                          | Populonia             | — |
-| 15:00  | Block 3 (I year)                         | Baratti 1+2+3         | _Chairs: Iacovacci, Ciuti, Controzzi, Cafarelli_<br/>Sascha Müller, Federico Andrei, Alessandro Foglia, Alberto Sarti, Chanuka Lihini Tennakoon Tennakoon Mudiyanselage, Sreeja Saraswati |
+| 15:00  | Block 3<br/>(I year)                         | Baratti 1+2+3         | _Chairs: Iacovacci, Ciuti, Controzzi, Cafarelli_<br/>Sascha Müller, Federico Andrei, Alessandro Foglia, Alberto Sarti, Chanuka Lihini Tennakoon Tennakoon Mudiyanselage, Sreeja Saraswati |
 | 16:30  | _Coffee break_                             | Loggiato              | — |
-| 17:00  | Block 4 (I year)                         | Baratti 1+2+3         | _Chairs: Cipriani, Russo, Romano, Carpaneto_<br/>Xiao Bai, Xinyang Huang, Jiaqi Li, Luciana Ercolanese, Yuriy Derevyanchuk, Carmen Panepinto Zayati |
+| 17:00  | Block 4<br/>(I year)                         | Baratti 1+2+3         | _Chairs: Cipriani, Russo, Romano, Carpaneto_<br/>Xiao Bai, Xinyang Huang, Jiaqi Li, Luciana Ercolanese, Yuriy Derevyanchuk, Carmen Panepinto Zayati |
 | 18:30  | **Invited Talk**        | Baratti 1+2+3         | **Francesco Bettella** |
 | 18:30  | _Faculty Meeting_                          | Populonia             | — |
 | 19:30 | **_Group Picture_**                  | —                     | — |
@@ -74,16 +74,16 @@ permalink: /evaluation-meeting-2026/
 | Time   | Activity                                  | Location              | Participants |
 |--------|-------------------------------------------|-----------------------|--------------|
 | 08:00  | _Breakfast_                                | La Cantina Restaurant | — |
-| 09:30  | Block 1 (I year)                         | Baratti 1+2+3         | _Chairs: Trigili, Meder, Vannozzi, Ferrari_<br/>Yuhe Chen, Greta Feregotto, Chiara Muscarella, Jackeline Soto Cruz, Laura Russo, Mariana Tavares Pimenta, Adriana Saavedra |
+| 09:30  | Block 1<br/>(I year)                         | Baratti 1+2+3         | _Chairs: Trigili, Meder, Vannozzi, Ferrari_<br/>Yuhe Chen, Greta Feregotto, Chiara Muscarella, Jackeline Soto Cruz, Laura Russo, Mariana Tavares Pimenta, Adriana Saavedra |
 | 11:30  | _Coffee break_                             | Loggiato              | — |
-| 12:00  | Block 2 – Track 1 (II year)              | Baratti 1             | Giulia Gigante, Samuel Mosenhanna Youssef, Fabrizio Moncelli, Christina Chase-Markopoulou, Camilla Schirru, Amirreza Mansoorikermani |
-| 12:00  | Block 2 – Track 2 (II year)              | Baratti 2+3           | Hector Ramirez Lara, Francesco Pierotti, Filippo Castellani, Iro Papagiannaki, Daliayvette Domínguez Jiménez, Francesca Parrotta |
+| 12:00  | Block 2 – Track 1<br/>(II year)              | Baratti 1             | _Chair: Cipriani, Calisti, Laschi, Maselli_<br/>Giulia Gigante, Samuel Mosenhanna Youssef, Fabrizio Moncelli, Christina Chase-Markopoulou, Camilla Schirru, Amirreza Mansoorikermani |
+| 12:00  | Block 2 – Track 2<br/>(II year)              | Baratti 2+3           | _Chair: Cafarelli, Micera, Pucci, Falotico_<br/>Hector Ramirez Lara, Francesco Pierotti, Filippo Castellani, Iro Papagiannaki, Daliayvette Domínguez Jiménez, Francesca Parrotta |
 | 13:00  | **Prospective Speech**         | Baratti 1+2+3         | **Prof. Paolo Dario** |
 | 13:30  | _Lunch_                                    | La Cantina Restaurant | — |
 | 13:30  | _Faculty Meeting_                         | Populonia             | — |
-| 15:00  | Block 3 (I year)                         | Baratti 1+2+3         | _Chairs: Palagi, Gherardini, Cianchetti, Ciofani, Calisti_<br/>Nicole Giannotto, Marianna Santucci, Tommaso Lambresa, Francesco Varnier, Niccolò Picchiarelli |
-| 16:30  | Coffee break                             | Loggiato              | — |
-| 17:00  | Block 4 (I year)                         | Baratti 1+2+3         | _Chairs: Cappello, Meneghetti, Mattoli, Mastinu_<br/>Marlena Caruso, Martino Singuaroli, Valentina Arditi, Matilde Santini, Laura Patrícia Guerra Manso, Chang Liu |
+| 15:00  | Block 3<br/>(I year)                         | Baratti 1+2+3         | _Chairs: Palagi, Gherardini, Cianchetti, Ciofani, Calisti_<br/>Nicole Giannotto, Marianna Santucci, Tommaso Lambresa, Francesco Varnier, Niccolò Picchiarelli |
+| 16:30  | _Coffee break_                             | Loggiato              | — |
+| 17:00  | Block 4<br/>(I year)                         | Baratti 1+2+3         | _Chairs: Cappello, Meneghetti, Mattoli, Mastinu_<br/>Marlena Caruso, Martino Singuaroli, Valentina Arditi, Matilde Santini, Laura Patrícia Guerra Manso, Chang Liu |
 | 18:30  | _Social Activities_                        | Sport Area            | — |
 | 18:30  | _Faculty Meeting_                          | Populonia             | — |
 | 20:30  | _Dinner_                                  | La Cantina Restaurant | — |
@@ -95,7 +95,7 @@ permalink: /evaluation-meeting-2026/
 | Time   | Activity                                  | Location              | Participants |
 |--------|-------------------------------------------|-----------------------|--------------|
 | 08:00  | _Breakfast_                                | La Cantina Restaurant | — |
-| 09:30  | **Award Ceremony**                          | Baratti 1+2+3         | Chairs: Mazzoni, Ricotti |
+| 09:30  | **Award Ceremony**                          | Baratti 1+2+3         | _Chairs: Mazzoni, Ricotti_ |
 | 10:30  | _Check-out_                    | —                     | — |
 | 11:30  | _Transfers_                    | —                     | — |
 | 13:30  | _Faculty Lunch_                            | Ristorante            | — |
