@@ -36,14 +36,14 @@ permalink: /evaluation-meeting-2026/
 |--------|-------------------------------------------|-----------------------|--------------|
 | Morning | _Pick-up, Arrival & Check-in_                      | —                     | — |
 | 12:00  | _Lunch_                                    | La Cantina Restaurant | — |
-| 14:00  | Welcome & Intro                          | Baratti 1+2+3         | Prof. Ricotti & Ciuti |
+| 14:00  | **Welcome & Intro**                          | Baratti 1+2+3         | Prof. Ricotti & Ciuti |
 | 14:30  | Block 1<br/>(I year)                         | Baratti 1+2+3         | _Chairs: Menciassi, Crea, Mazzoni, Maselli, Filosa_<br/>Aurora Balandi, Giulia Lomele, Luca Murra, Carlo Preziuso, Camilla Baselli, Simone Rossi, Alfonso Maria Stanzione |
 | 16:30  | _Coffee break_                             | Loggiato              | — |
 | 17:00  | Block 2 – Track 1<br/>(II year)              | Baratti 1             | _Chairs: Stabile, Cianchetti, Mastinu, Cappello_<br/>Lorenzo Amati, Niccolò Bergo, Gian Paolo Currà, Marco Anselmi, Marco Lupi, Mariagrazia Polizzotto |
 | 17:00  | Block 2 – Track 2<br/>(II year)              | Baratti 2+3           | _Chairs: Vannozzi, Meder, Oddo, Sabatini_<br/>Leonardo Corsi, Nadia D’Alessandro, Salvatore Falciglia, Anita Casadei, Alessandro Piccolo, Rita Habib |
 | 18:00  | **Invited Talk**             | Baratti 1+2+3         | **Mario Pansera** |
 | 18:00  | _Faculty meeting_            | Populonia         | — |
-| 19:00  | Poster Session & Aperi-dinner            | Poster Area           | Poster presenters (III year) |
+| 19:00  | **Aperi-Poster**            | Poster Area           | Poster presenters (III year) |
 
 ---
 
