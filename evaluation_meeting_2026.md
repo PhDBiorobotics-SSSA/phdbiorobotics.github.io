@@ -8,7 +8,7 @@ permalink: /evaluation-meeting-2026/
 <!-- # Evaluation Meeting Program
 **Piombino, June 9–12, 2026** -->
 
-![PhD in BioRobotics - Evaluation Meeting - Piombino, June 9-12, 2026](media/Logo_evaluation_meeting_2026.png)
+![PhD in BioRobotics - Evaluation Meeting - Piombino, June 9-12, 2026](media/Logo_evaluation_meeting_2026.png#display)
 
 ---
 

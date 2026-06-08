@@ -337,10 +337,10 @@ pre {
   table th:nth-child(4),
   table td:nth-child(4) { width: 52%; }
 
-  img,
-  .markdown-body img,
-  .page-content img,
-  main img {
+  img[src$="#display"],
+  .markdown-body img[src$="#display"],
+  .page-content img[src$="#display"],
+  main img[src$="#display"] {
     width: 100%;
     max-width: 100%;
     border-radius: 0;
