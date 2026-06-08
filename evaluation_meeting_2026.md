@@ -49,7 +49,7 @@ permalink: /evaluation-meeting-2026/
 | 17:00  | Block 2 – Track 2<br/>(II year)              | Baratti 2+3           | _Chairs: Vannozzi, Meder, Oddo, Sabatini_<br/>Leonardo Corsi, Nadia D’Alessandro, Salvatore Falciglia, Anita Casadei, Alessandro Piccolo, Rita Habib |
 | 18:00  | **Invited Talk**             | Baratti 1+2+3         | **Mario Pansera** |
 | 18:00  | _Faculty meeting_            | Populonia         | — |
-| 19:00  | **Aperi-Poster**            | Poster Area           | Poster presenters (III year) |
+| 19:00  | **Aperi-Poster**            | Swimming Pool Restaurant           | Poster presenters (III year) |
 
 ---
 
@@ -70,7 +70,7 @@ permalink: /evaluation-meeting-2026/
 | 18:30  | **Invited Talk**        | Baratti 1+2+3         | **Francesco Bettella** |
 | 18:30  | _Faculty Meeting_                          | Populonia             | — |
 | 19:30 | **_Group Picture_**                  | —                     | — |
-| 20:30 | _Dinner_                  | Swimming Pool Restaurant                    | — |
+| 20:30 | _Dinner_                  | La Cantina Restaurant                    | — |
 | &nbsp; | _After Dinner_                  | Bagno Baratti                    | — |
 
 ---
@@ -92,7 +92,7 @@ permalink: /evaluation-meeting-2026/
 | 17:00  | Block 4<br/>(I year)                         | Baratti 1+2+3         | _Chairs: Cappello, Meneghetti, Mattoli, Mastinu_<br/>Marlena Caruso, Martino Singuaroli, Valentina Arditi, Matilde Santini, Laura Patrícia Guerra Manso, Chang Liu |
 | 18:30  | _Social Activities_                        | Sport Area            | — |
 | 18:30  | _Faculty Meeting_                          | Populonia             | — |
-| 20:30  | _Dinner_                                  | La Cantina Restaurant | — |
+| 20:30  | _Dinner_                                  | Swimming Pool Restaurant | — |
 
 ---
 
@@ -104,7 +104,7 @@ permalink: /evaluation-meeting-2026/
 | 09:30  | **Award Ceremony**                          | Baratti 1+2+3         | _Chairs: Mazzoni, Ricotti_ |
 | 10:30  | _Check-out_                    | —                     | — |
 | 11:30  | _Transfers_                    | —                     | — |
-| 13:30  | _Faculty Lunch_                            | Ristorante            | — |
+| 13:30  | _Faculty Lunch_                            | Restaurant            | — |
 | 18:00  | _Transfers_                    | —                     | — |
 
 
