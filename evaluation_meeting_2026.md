@@ -12,6 +12,10 @@ permalink: /evaluation-meeting-2026/
 
 ---
 
+### Upload your **pictures** :camera: and **videos** :movie_camera: of the event [:arrow_right: here](https://drive.google.com/drive/folders/1zbnDZgNypuc_BRaB0kkbpW34dPbooKnn?usp=sharing) 
+
+---
+
 - [Agenda](#agenda)
   - [DAY 1 — Tuesday, June 9](#day-1--tuesday-june-9)
   - [DAY 2 — Wednesday, June 10](#day-2--wednesday-june-10)
