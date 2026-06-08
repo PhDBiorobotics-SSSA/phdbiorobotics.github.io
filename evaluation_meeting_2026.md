@@ -20,6 +20,8 @@ permalink: /evaluation-meeting-2026/
 - [Logistics](#logistics)
   - [Wi-Fi information](#wi-fi-information)
   - [Map](#map)
+  - [Rooms access in plenary and parallel tracks](#rooms-access-in-plenary-and-parallel-tracks)
+  - [June 12th – Departure and Logistics](#june-12th--departure-and-logistics)
 - [Track Panels](#track-panels)
     - [Track 1 Panel](#track-1-panel)
     - [Track 2 Panel](#track-2-panel)
@@ -117,6 +119,24 @@ permalink: /evaluation-meeting-2026/
 ![Map](media/map-2026.png)
 
 > [Download map]({{ '/media/map-2026.pdf' | relative_url }})
+
+
+## Rooms access in plenary and parallel tracks
+
+When using the full Meeting Room **Baratti 1+2+3**, access to the room is available from the **_Foyer_** (the registration/accreditation area in front of the meeting rooms).
+When the two rooms are divided and the partition door is completely closed (meaning **Baratti 1** is separated from **Baratti 2+3**), access to **Baratti 1** must be through the columned **_Portico_** (facing the bar).
+
+## June 12th – Departure and Logistics
+
+**Check-out Schedule:** All participants are kindly requested to check out by **11:00 AM** (strict deadline). 
+An exception is granted to the Professors remaining for lunch, who may retain their apartments until 3:00 PM.
+
+**Key Return:** Participants must return their keys to Reception by **11:00 AM**.
+
+**Luggage Storage:** For guests wishing to store their luggage prior to departure, a designated Luggage Store will be available in the Meeting Rooms Foyer on the morning of June 12th.
+
+**Bus Parking:** The two buses will be parked in a restricted area near the Piaggione (the same courtyard utilized for check-in). 
+Participants will find the buses stationed adjacent to the Piaggione after checking out.
 
 ---
 
