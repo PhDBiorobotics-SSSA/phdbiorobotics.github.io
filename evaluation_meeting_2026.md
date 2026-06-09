@@ -114,7 +114,7 @@ permalink: /evaluation-meeting-2026/
 
 ## Wi-Fi information
 
-> Network:&nbsp; `Conference`  
+> Network:&nbsp; `Conference` / `Conference-Baratti-1` 
 > Password: `Sala2022`
 
 
