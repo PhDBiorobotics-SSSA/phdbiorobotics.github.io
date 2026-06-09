@@ -41,7 +41,7 @@ permalink: /evaluation-meeting-2026/
 | Time   | Activity                                  | Location              | Participants |
 |--------|-------------------------------------------|-----------------------|--------------|
 | Morning | _Pick-up, Arrival & Check-in_                      | —                     | — |
-| 12:00  | _Lunch_                                    | La Cantina Restaurant | — |
+| 12:30  | _Lunch_                                    | La Cantina Restaurant | — |
 | 14:00  | **Welcome & Intro**                          | Baratti 1+2+3         | Prof. Ricotti & Ciuti |
 | 14:30  | Block 1<br/>(I year)                         | Baratti 1+2+3         | _Chairs: Menciassi, Crea, Mazzoni, Maselli, Filosa_<br/>Aurora Balandi, Giulia Lomele, Luca Murra, Carlo Preziuso, Camilla Baselli, Simone Rossi, Alfonso Maria Stanzione |
 | 16:30  | _Coffee break_                             | Loggiato              | — |
